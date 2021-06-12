@@ -1,5 +1,5 @@
 import React from 'react';
-import { BeakerIcon, HomeIcon } from '@heroicons/react/solid'
+import { HomeIcon } from '@heroicons/react/solid'
 
 const ServicesCard = ({ service }) => {
   const { title, descriptions } = service;
